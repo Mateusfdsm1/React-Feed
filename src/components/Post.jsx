@@ -8,7 +8,7 @@ export function Post() {
     <article className={styles.post}>
       <header>
         <div className={styles.author}>
-          <Avatar src="https://github.com/thiagoamacedo.png" />
+          <Avatar src="https://github.com/Mateusfdsm1.png" />
           <div className={styles.authorInfo}>
             <strong>Thiago Macedo</strong>
             <span>Web Developer</span>
