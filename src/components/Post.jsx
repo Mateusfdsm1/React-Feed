@@ -8,9 +8,9 @@ export function Post() {
     <article className={styles.post}>
       <header>
         <div className={styles.author}>
-          <Avatar src="https://github.com/diego3g.png" />
+          <Avatar src="https://github.com/maykbrito.png" />
           <div className={styles.authorInfo}>
-            <strong>Diego Fernandes</strong>
+            <strong>Mayk Brito</strong>
             <span>Web Developer</span>
           </div>
         </div>
