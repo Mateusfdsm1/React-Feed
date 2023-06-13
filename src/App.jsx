@@ -1,5 +1,5 @@
 import { Post } from './components/Post';
-import { Header } from './components/header';
+import { Header } from './components/Header';
 import { Sidebar } from './components/Sidebar';
 
 import styles from './App.module.css';
@@ -19,7 +19,7 @@ const posts = [
        {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
         {type: 'link', content: 'jane.design/doctorcare'}
       ],
-      publishedAt: new Date('2023-06-13 22:00:00'),
+      publishedAt: new Date('2023-06-13 03:00:00'),
   },
   {
     id: 2,
