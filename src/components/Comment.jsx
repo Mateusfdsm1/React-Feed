@@ -9,9 +9,6 @@ export function Comment() {
 
       <Avatar hasBorder={false} src="https://github.com/diego3g.png" alt="" />
 
-      <Avatar hasBorder={false} src="https://github.com/Mateusfdsm1.png" alt="" />
-
-
       <div className={styles.commentBox}>
         <div className={styles.commentContent}>
           <header>
